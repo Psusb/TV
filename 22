@@ -5,3 +5,7 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pddbq.m3u8?s=cHDJPjFW9H0sBVdMLGOR
 #EXTM3U
 #EXTINF:0 type="estream" channelId="-1" name="AR: FOX PREMIUM" group="FUTBOL" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" tvg-country="AR", FOX PREMIUM
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/y6cwu6zgx.m3u8?s=Rip6bgzYutbiRKZ0huru3A&e=1616787150
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="AR: Tyc Sport" group="FUTBOL" logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" tvg-country="AR", Tyc Sport 
+https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
