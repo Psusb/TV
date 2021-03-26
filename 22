@@ -11,5 +11,5 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/y6cwu6zgx.m3u8?s=Rip6bgzYutbiRKZ0
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
 
 #EXTM3U
-#EXTINF:0 type="estream" channelId="-1" name="AR: Directv sports" group="FUTBOL" logo="" tvg-country="AR", Directv spors #EXTINF:0 type="estream" channelId="-1" name="AR: Directv Sport" group="FUTBOL" logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" tvg-country="AR", Directv Sports
+#EXTINF:0 type="estream" channelId="-1" name="AR: Directv Sports" group="FUTBOL" logo="https://secureservercdn.net/198.71.233.129/smb.f96.myftpupload.com/wp-content/uploads/2020/06/directv-sports-canal-deportivo.jpg?time=1616037919" tvg-country="AR", Directv Sports
 https://live.tvplusgratis.com/hls/ts18e8mxa3xmnll/18_.m3u8?token=UHmtBN9sOJvaFMO7zCLSNw&expires=1616776241&ip=190.57.231.90
