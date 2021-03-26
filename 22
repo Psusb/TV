@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="AR: TNT SPORTS" group="FUTBOL" logo="https://yt3.ggpht.com/ytc/AAUvwnh4Xoyskq-XbqzphvBrsEpkoscRnlOq-CDUiz5inw=s900-c-k-c0x00ffffff-no-rj" tvg-country="AR", TNT SPORTS 
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pddbq.m3u8?s=cHDJPjFW9H0sBVdMLGORAw&e=1616787034
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="AR: FOX PREMIUM" group="FUTBOL" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" tvg-country="AR", FOX PREMIUM
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/y6cwu6zgx.m3u8?s=Rip6bgzYutbiRKZ0huru3A&e=1616787150
