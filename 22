@@ -1,19 +1,11 @@
 #EXTM3U
-#EXTINF:0 type="estream" channelId="-1" name="AR: TNT SPORT" group="FUTBOL" logo="https://yt3.ggpht.com/ytc/AAUvwnh4Xoyskq-XbqzphvBrsEpkoscRnlOq-CDUiz5inw=s900-c-k-c0x00ffffff-no-rj" tvg-country="AR", TNT SPORTS 
+#EXTINF:0 type="estream" channelId="1" name="AR: TNT SPORT" group="FUTBOL" logo="https://yt3.ggpht.com/ytc/AAUvwnh4Xoyskq-XbqzphvBrsEpkoscRnlOq-CDUiz5inw=s900-c-k-c0x00ffffff-no-rj" tvg-country="AR", TNT SPORTS 
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pddbq.m3u8?s=t3_uhejvh1mW1-KrX7YnZQ&e=1616804699
 
 #EXTM3U
-#EXTINF:0 type="estream" channelId="-1" name="AR: FOX PREMIUM" group="FUTBOL" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" tvg-country="AR", FOX PREMIUM
+#EXTINF:0 type="estream" channelId="2" name="AR: FOX PREMIUM" group="FUTBOL" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" tvg-country="AR", FOX PREMIUM
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/y6cwu6zgx.m3u8?s=Rip6bgzYutbiRKZ0huru3A&e=1616787150
 
 #EXTM3U
-#EXTINF:0 type="estream" channelId="-1" name="AR: Tyc Sport" group="FUTBOL" logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" tvg-country="AR", Tyc Sport 
+#EXTINF:0 type="estream" channelId="3" name="AR: Tyc Sport" group="FUTBOL" logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" tvg-country="AR", Tyc Sport 
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
-
-#EXTM3U
-#EXTINF:0 type="estream" channelId="-1" name="AR: Directv Sports" group="FUTBOL" logo="https://secureservercdn.net/198.71.233.129/smb.f96.myftpupload.com/wp-content/uploads/2020/06/directv-sports-canal-deportivo.jpg?time=1616037919" tvg-country="AR", Directv Sports
-https://e6.espncdn.xyz/ingest013/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=2tr_Rxqnn3saHrZyapbzFw&expires=1616802018&rnd=
-
-#EXTM3U
-#EXTINF:0 type="estream" channelId="-1" name="AR: Directv Sports 2" group="FUTBOL" logo="https://i.pinimg.com/originals/30/94/9f/30949f70bcca0fd475a8015001065755.png" tvg-country="AR", Directv Sports 2
-https://telerium.digital/ingest013/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=GMxiSJKD0HR-dgU-A14Unw&expires=1616787420&rnd=71388
