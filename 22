@@ -3,6 +3,10 @@
 https://e4.espncdn.xyz/ingest013/53379.m3u8?sf=Tk05OXZXZ0Y4Yg==&token=kfp3-y1pdjJQO79YK_p9Wg&expires=1616796651&rnd=
 
 #EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="AR: TNT SPORT op2" group="FUTBOL" logo="https://yt3.ggpht.com/ytc/AAUvwnh4Xoyskq-XbqzphvBrsEpkoscRnlOq-CDUiz5inw=s900-c-k-c0x00ffffff-no-rj" tvg-country="AR", TNT SPORTS op2
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pddbq.m3u8?s=t3_uhejvh1mW1-KrX7YnZQ&e=1616804699
+
+#EXTM3U
 #EXTINF:0 type="estream" channelId="-1" name="AR: FOX PREMIUM" group="FUTBOL" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" tvg-country="AR", FOX PREMIUM
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/y6cwu6zgx.m3u8?s=Rip6bgzYutbiRKZ0huru3A&e=1616787150
 
