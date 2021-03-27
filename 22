@@ -1,16 +1,12 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh4Xoyskq-XbqzphvBrsEpkoscRnlOq-CDUiz5inw=s900-c-k-c0x00ffffff-no-rj" group-title="PACK FUTBOL",TNT SPORTS
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pddbq.m3u8?s=oEeHU0p8kap0O5dPWv8NdA&e=1616901959
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_720_av-p.m3u8?sd=10&rebase=on&id=AgC+OedaigCYBduyX2B85Zmd%2fa2j7WEm4OuFkW+4CAZ1+iOJykZae9NZIQxDY4PsIT+JKjiW7itYIg%3d%3d&hdntl=exp=1616906043~acl=%2f*~data=hdntl~hmac=cb6c2d692f8e6d84ddb4ab45be2a793666275d25d6ff368c7d4fb898d5c455d7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="PACK FUTBOL", FOX PREMIUM
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/y6cwu6zgx.m3u8?s=6gSo1--7SQ46Ym1YqMzFLw&e=1616902144
 
 #EXTINF:0, group-title="Envivo", Argentinos J. vs Arsenal op11
-https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_360_av-b.m3u8?sd=10&rebase=on&id=AgC+OedaigCYBMKwX2AMqmg6UeWggIKnBRQCx4GeQfyKckPrNC5Wtvjxzf4Umhki7OIq7ldb3kqNHQ%3d%3d&hdntl=exp=1616905506~acl=%2f*~data=hdntl~hmac=43b9d6c04ce7cea88cd6d0ff84bcb50a075be4a88fd198b68eea1bd9618b525a
-
-#EXTINF:0, group-title="Envivo", Argentinos J. vs Arsenal o2
-https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1616883165~exp=1616883765~acl=/*~hmac=e6105046ab1b34f1f3ead939068edf2ea5cb56829c601ee910b1f353474bb478
 
 
 
