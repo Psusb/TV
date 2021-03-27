@@ -8,3 +8,5 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/y6cwu6zgx.m3u8?s=S1y7rUoYfwcA4lPW
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
 #EXTINF:-1 type="estream" channelId="-1" name="AR: Cinemax" group="PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cinemax_new.png/1280px-Cinemax_new.png" tvg-country="AR", Cinemax 
 https://live.tvplusgratis.com/hls/ts18e8mxa3xmnll/74_.m3u8?token=WZfak5gqRNSizrzfaqiCAQ&expires=1616809475&ip=190.57.231.90
+#EXTINF:-1 type="estream" channelId="-1" name="AR: Fox action" group="PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/0/02/LOGO-FOX-ACTION.png" tvg-country="AR", Fox action
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pzak9d.m3u8?s=HkxGwXjHpNQq8_SQKhYymA&e=1616827897
