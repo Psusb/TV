@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh4Xoyskq-XbqzphvBrsEpkoscRnlOq-CDUiz5inw=s900-c-k-c0x00ffffff-no-rj" group-title="PACK FUTBOL",TNT SPORTS
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pddbq.m3u8?s=psZ1e1KHTJgzN9WhxCAxCQ&e=1616876733
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pddbq.m3u8?s=oEeHU0p8kap0O5dPWv8NdA&e=1616901959
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="PACK FUTBOL", FOX PREMIUM
-https://futbollibre.net:443/embed/fox/
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/y6cwu6zgx.m3u8?s=6gSo1--7SQ46Ym1YqMzFLw&e=1616902144
 
 #EXTINF:-1 tvg-logo="" group-title="Futbol en vivo", Tyc Sports
 https://playback2.akamaized.net/streams/27014129_8167338_lsiag2ei3i3ls9a39sr_1/exp=1616966184~acl=%2f*~data=hdntl~hmac=4b2aa98f79d9c7e4349099c100b61f1304f7e9f827d4aeb40d136a106ca1c374/media/27014129_8167338_lsiag2ei3i3ls9a39sr_1@628000p.m3u8?dw=80&ts=1616878800
@@ -14,20 +14,13 @@ https://playback2.akamaized.net/streams/27014129_8167338_lsiag2ei3i3ls9a39sr_1/e
 
 
 #EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/722/1014/gratis-png-logo-warner-bros.png" group-title="TV", Warner Bros 
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/j5uwhfb7w5c.m3u8?s=MotF_lkDeUYQdOOvOrMrSw&e=1616877808
+https://live.tvplusgratis.com/hls/ts18e8mxa3xmnll/44_.m3u8?token=yMYsIEe0ez6obe8s-zwy1w&expires=1616884213&ip=190.57.231.90
 
 
 #EXTINF:-1 tvg-logo="" group-title="TV",Star Channel
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/0e733j.m3u8?s=ERsHHlQgRIrie52UZ5-q3g&e=1616880093
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png" group-title="TV", Fox  
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/0e733j.m3u8?s=WSqjHwlm-KWJ6jjls_XcNA&e=1616877884
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="TV", Fox Movies 
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/4dtc368405sw4mo.m3u8?s=xEIdAAKfuR_xWHk4fHbTJg&e=1616877957
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/7c/85/5b/7c855bb03c5294847c43a9f0c5b441a7.png" group-title="TV", Fox Series
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/in515ybo3y.m3u8?s=SkqWdzVxYeHfhPQQ9SN_eQ&e=1616878004
 
 
 
