@@ -6,8 +6,8 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pddbq.m3u8?s=psZ1e1KHTJgzN9WhxCAx
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="PACK FUTBOL", FOX PREMIUM
 https://futbollibre.net:443/embed/fox/
 
-#EXTINF:-1 tvg-logo="" group-title="En vivo", tnt
-https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_360_av-b.m3u8?sd=10&rebase=on&id=AgC+OedaigCYBKedX2BaAZYwO6+lIEB+87L6W5MKOqfXz97n4KuYprjtutaLKF2Ym8+LZPBfJqbqjQ%3d%3d&hdntl=exp=1616900615~acl=%2f*~data=hdntl~hmac=ba688d3eadae8cfa0cb4ccd7073bfd24869a700bc754be116abe6874fc2a29a4
+#EXTINF:-1 tvg-logo="" group-title="Futbol en vivo", Tyc Sports
+https://playback2.akamaized.net/streams/27014129_8167338_lsiag2ei3i3ls9a39sr_1/exp=1616966184~acl=%2f*~data=hdntl~hmac=4b2aa98f79d9c7e4349099c100b61f1304f7e9f827d4aeb40d136a106ca1c374/media/27014129_8167338_lsiag2ei3i3ls9a39sr_1@628000p.m3u8?dw=80&ts=1616878800
 
 #EXTINF:-1 tvg-logo="" group-title="En vivo",
 
@@ -29,9 +29,5 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/4dtc368405sw4mo.m3u8?s=xEIdAAKfuR
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/7c/85/5b/7c855bb03c5294847c43a9f0c5b441a7.png" group-title="TV", Fox Series
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/in515ybo3y.m3u8?s=SkqWdzVxYeHfhPQQ9SN_eQ&e=1616878004
 
-
-
-#EXTINF:4:02:08, tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2021/03/JUSTICE-LEAGUE-THE-SNYDER-CUT-960x640.jpg" group-title="ESTRENOS, La Liga de la Justicia de Zack Snyder
-https://asx.evosrv.com/EvoSrv/Jw8pPNCYNcP7FiW7Y0F7.mp4?md5=RAjTigEAUkakuLSbP7wNbA&expires=1616868849
 
 
