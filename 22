@@ -21,7 +21,7 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/2r0n23tl.m3u8?s=GvulzgewwQahLx_c7
 #EXTINF:-1 type="estream" channelId="-1" name="AR: Fox sport" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" tvg-country="AR", Fox sport 
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/kx8ric6rf.m3u8?s=a6eB0E_RHGYyIoEdiSfknw&e=1616831439
 
-#EXTINF:-1 type="estream" channelId="-1" name="AR: Espn" group="DEPORTES" logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" tvg-country="AR", Espn
+#EXTINF:-1 type="estream" channelId="-1" name="AR: Espn" group="DEPORTES" logo="https://images-na.ssl-images-amazon.com/images/I/41lChb5Q%2BKL.png" tvg-country="AR", Espn
 https://sv.tsnt.xyz/espn/espn1o_sur_c.m3u8
 
 #EXTINF:-1 type="estream" channelId="-1" name="AR: Directv sports" group="DEPORTES" logo="https://secureservercdn.net/198.71.233.129/smb.f96.myftpupload.com/wp-content/uploads/2020/06/directv-sports-canal-deportivo.jpg?time=1616037919" tvg-country="AR", Directv sports
