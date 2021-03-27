@@ -1,17 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SECUENCE:1500
-#EXT-X-TARGEDDURATION:4
-#EXTINF:-1 tvg-logo="" group-title="PACK",TNT SPORT
-https://playback2.akamaized.net/streams/23200514_9595928_lsiwb3u9qxipbu16fjf_1/exp=1616972084~acl=%2f*~data=hdntl~hmac=7bc66eb19ea96cf2d4f70aad35fece31c4f49003ef9a33c18a42e6ad66cf142d/media/23200514_9595928_lsiwb3u9qxipbu16fjf_1@5256000p.m3u8?dw=80&ts=1616882400
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh4Xoyskq-XbqzphvBrsEpkoscRnlOq-CDUiz5inw=s900-c-k-c0x00ffffff-no-rj" group-title="PACK FUTBOL",TNT SPORTS
-chrome-extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_240_av-p.m3u8?sd=10&rebase=on&id=AgC+OedaigCYBS60X2AC5qctFiEdV2DeQmO%2fy5ka7bSsLfkjLXylf8lyl8A%2fmlYbUsWTN5XHYP%2fthg%3d%3d&hdntl=exp=1616906382~acl=%2f*~data=hdntl~hmac=fbf31b05e2f83ff4155d250198eb06cf4ad21e44c748bfea8fdb56161723e758
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="PACK FUTBOL", FOX PREMIUM
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/y6cwu6zgx.m3u8?s=6gSo1--7SQ46Ym1YqMzFLw&e=1616902144
-
-#EXTINF:0, group-title="Envivo", Argentinos J. vs Arsenal op11
-
-
 
