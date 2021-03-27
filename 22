@@ -6,11 +6,9 @@ https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1616832363~
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="PACK FUTBOL", FOX PREMIUM
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/nqr8ua5ep6t.m3u8?s=OaO3tmHkIdH9s1YgrPmaIQ&e=1616843068
 
-#EXTINF:-1 tvg-logo="https://carloscaicedo.com.co/wp-content/uploads/en-vivo-transmision.png" group-title="PACK FUTBOL",OP1 Tyc Sports
-https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PACK FUTBOL",OP1
 
 #EXTINF:-1 tvg-logo="" group-title="PACK FUTBOL",OP2
-
 
 
 
