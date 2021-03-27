@@ -6,22 +6,28 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pddbq.m3u8?s=vXT2xlLHnFGE_nfUsdEy
 #EXTINF:-1 type="estream" channelId="-1" name="AR: Fox Premium" group="PACK FUTBOL" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" tvg-country="AR", Fox premium
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/y6cwu6zgx.m3u8?s=S1y7rUoYfwcA4lPW0f5zFQ&e=1616823307
 
-#EXTINF:-1 type="estream" channelId="-1" name="AR: TycSport" group="DEPORTES" logo="https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg" tvg-country="AR", Tyc Sport 
-https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
+
 
 #EXTINF:-1 type="estream" channelId="-1" name="AR: Cinemax" group="PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cinemax_new.png/1280px-Cinemax_new.png" tvg-country="AR", Cinemax 
 https://live.tvplusgratis.com/hls/ts18e8mxa3xmnll/74_.m3u8?token=7JIx9AjCXWrc-jfEiTkpQg&expires=1616816022&ip=190.57.231.90
 
 #EXTINF:-1 type="estream" channelId="-1" name="AR: Fox action" group="PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/0/02/LOGO-FOX-ACTION.png" tvg-country="AR", Fox action
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pzak9d.m3u8?s=HkxGwXjHpNQq8_SQKhYymA&e=1616827897
+#EXTINF:-1 type="estream" channelId="-1" name="AR: HBO" group="PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-country="AR", HBO
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/34mq4noh63k.m3u8?s=Q-0s5wFHxNA7gE_-vnbm3A&e=1616834819
 
 #EXTINF:-1 type="estream" channelId="-1" name="AR: Fox Series" group="PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/8/85/FOX_Series_HD.png" tvg-country="AR", Fox Series
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/2r0n23tl.m3u8?s=GvulzgewwQahLx_c77mN5Q&e=1616828397
 
+
+
+#EXTINF:-1 type="estream" channelId="-1" name="AR: TycSport" group="DEPORTES" logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" tvg-country="AR", Tyc Sport 
+https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
+
 #EXTINF:-1 type="estream" channelId="-1" name="AR: Fox sport" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" tvg-country="AR", Fox sport 
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/kx8ric6rf.m3u8?s=a6eB0E_RHGYyIoEdiSfknw&e=1616831439
 
-#EXTINF:-1 type="estream" channelId="-1" name="AR: Espn" group="DEPORTES" logo="https://images-na.ssl-images-amazon.com/images/I/41lChb5Q%2BKL.png" tvg-country="AR", Espn
+#EXTINF:-1 type="estream" channelId="-1" name="AR: Espn" group="DEPORTES" logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" tvg-country="AR", Espn
 https://sv.tsnt.xyz/espn/espn1o_sur_c.m3u8
 
 #EXTINF:-1 type="estream" channelId="-1" name="AR: Directv sports" group="DEPORTES" logo="https://secureservercdn.net/198.71.233.129/smb.f96.myftpupload.com/wp-content/uploads/2020/06/directv-sports-canal-deportivo.jpg?time=1616037919" tvg-country="AR", Directv sports
