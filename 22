@@ -7,8 +7,7 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pddbq.m3u8?s=oEeHU0p8kap0O5dPWv8N
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/y6cwu6zgx.m3u8?s=6gSo1--7SQ46Ym1YqMzFLw&e=1616902144
 
 #EXTINF:0, group-title="Envivo", Argentinos J. vs Arsenal op1
-https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1616882920~exp=1616883520~acl=/*~hmac=c118f81005bd20d40ae989cdeb29180b4d895d42d235a3fc79b015838f326002
-
+https://playback2.akamaized.net/streams/23200514_9595928_lsiwb3u9qxipbu16fjf_1/master.m3u8?dw=80&hdnts=exp=1616883993~acl=/streams/23200514_9595928_lsiwb3u9qxipbu16fjf_1/master.m3u8*~hmac=571636e4feb289e216058aa54a5f88821461b23f3911e4e14607e0ea45ff6b4a
 
 #EXTINF:0, group-title="Envivo", Argentinos J. vs Arsenal op2
 https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1616883165~exp=1616883765~acl=/*~hmac=e6105046ab1b34f1f3ead939068edf2ea5cb56829c601ee910b1f353474bb478
