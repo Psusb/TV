@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh4Xoyskq-XbqzphvBrsEpkoscRnlOq-CDUiz5inw=s900-c-k-c0x00ffffff-no-rj" group-title="PACK FUTBOL",TNT SPORTS
-https://e4.espncdn.xyz/ingest01/53379.m3u8?sf=Tk05OXZXZ0Y4Yg==&token=xaaduNr2LymRMfGpqM2DkQ&expires=1616844961&rnd=
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_480_av-b.m3u8?sd=10&rebase=on&id=AgC+OedaigCYBUDmXmBis1rAfzz8hFGimoGh08SODFpN%2fZU+ml3CRlSyduqbDa16Y1VX4o3RkLKXMQ%3d%3d&hdntl=exp=1616853664~acl=%2f*~data=hdntl~hmac=1a75441f53c69bb74768a1fabbb5630a34e2550e328b4f14cce201cb6c42a699
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="PACK FUTBOL", FOX PREMIUM
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/nqr8ua5ep6t.m3u8?s=OaO3tmHkIdH9s1YgrPmaIQ&e=1616843068
