@@ -6,8 +6,8 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pddbq.m3u8?s=oEeHU0p8kap0O5dPWv8N
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="PACK FUTBOL", FOX PREMIUM
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/y6cwu6zgx.m3u8?s=6gSo1--7SQ46Ym1YqMzFLw&e=1616902144
 
-#EXTINF:-1 tvg-logo="" group-title="En vivo", Argentinos J. vs Arsenal
-https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_360_av-b.m3u8?sd=10&rebase=on&id=AgC+OedaigCYBPenX2DZFv106Hc1lxePQIKwuXisbblx33TEFmjZ9gjIxCvSUAaDaMLAI0jfuwqvOA%3d%3d&hdntl=exp=1616903255~acl=%2f*~data=hdntl~hmac=ef6ff39ca364a259b6cc9977821f867176e2db9f70f51dc91905ff2387e6f999
+#EXTINF:0, group-title="En vivo", Argentinos J. vs Arsenal op1
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1616882920~exp=1616883520~acl=/*~hmac=c118f81005bd20d40ae989cdeb29180b4d895d42d235a3fc79b015838f326002
 
 
 
