@@ -11,3 +11,6 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/j5uwhfb7w5c.m3u8?s=mcS6X0D4IwhZmr
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png" group-title="ENTRETENIMIENTO", Fox  
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/0e733j.m3u8?s=E5IaUVMNjX-46GMJuTy7Vg&e=1616844108
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="ENTRETENIMIENTO", Fox Movies 
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/4dtc368405sw4mo.m3u8?s=tLagaOU4Ex1vGYyRJ-LLoA&e=1616844523
