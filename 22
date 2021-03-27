@@ -16,6 +16,10 @@ https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargent
 #EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/722/1014/gratis-png-logo-warner-bros.png" group-title="TV", Warner Bros 
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/j5uwhfb7w5c.m3u8?s=MotF_lkDeUYQdOOvOrMrSw&e=1616877808
 
+
+#EXTINF:-1 tvg-logo="" group-title="TV",Star Channel
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/0e733j.m3u8?s=ERsHHlQgRIrie52UZ5-q3g&e=1616880093
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png" group-title="TV", Fox  
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/0e733j.m3u8?s=WSqjHwlm-KWJ6jjls_XcNA&e=1616877884
 
