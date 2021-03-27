@@ -14,3 +14,6 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/0e733j.m3u8?s=E5IaUVMNjX-46GMJuTy
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="ENTRETENIMIENTO", Fox Movies 
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/4dtc368405sw4mo.m3u8?s=tLagaOU4Ex1vGYyRJ-LLoA&e=1616844523
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/FOX_Comedy_HD.png" group-title="ENTRETENIMIENTO", Fox Comedy
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pnc0det5nknvqo.m3u8?s=RoZXfGyG6XU0i53dOeTvOw&e=161684530
