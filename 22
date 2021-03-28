@@ -1,7 +1,10 @@
 #EXM3U8
 #EXTINF:-1 tvg-logo="" group-title="TV", 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="FUTBOL", Fox premium
+#EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="FUTBOL", Tnt sport
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_480_av-p.m3u8?sd=10&rebase=on&id=AgC+OedaigCYBOvVX2DcdDNYeIzh3kOHbR1ZBFreXG5e%2fjfWY1LzWfZkQRUaKuHBr4IKRgZfcZbhYA%3d%3d&hdntl=exp=1616915019~acl=%2f*~data=hdntl~hmac=a325a5953fad6c16ee56f6758d985408228e17e312f54faa6001c99666ae0b0d
+
+#EXTINF:-1 tvg-logo="" group-title="FUTBOL", Fox premium
 https://content-asae1-up-2.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1616892541&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=fe624ec341f3c70fdfdc1af34e995502e31293ed27217dceacb17393430cd205&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=ba860cf58703a93546c7e34715e47e7a2206aa0ef557fc348157d7c5b89704c6&pbs=3c4e11e79ffc41e5ac37034fa62a97a3
 
 #EXTINF:-1 tvg-logo="https://telefe-static.akamaized.net/assets/telefe/4.05.01/static/img/logo-schema.jpg" group-title="TV",TELEFE
