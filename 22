@@ -8,7 +8,7 @@ https://sv5.tsnt.xyz/simpsons/simpsons/playlist.m3u8
 https://e10.espncdn.shop:443/ingestnb4s/espn_sur/c.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV", Cinemax
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/ztv7sh.m3u8?s=c_UPtI3OdCBdyCkpakoK9A&e=1616926728
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/ztv7sh.m3u8?s=h3OcECBVHxLY-NVpG5YYRA&e=1616960422
 
 #EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="FUTBOL", Tnt sport
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/kqfqxg.m3u8?s=QPwxMX_IomzCZqYtUU79Ew&e=1616958883
@@ -17,28 +17,28 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/kqfqxg.m3u8?s=QPwxMX_IomzCZqYtUU7
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/nqr8ua5ep6t.m3u8?s=EajYVXg0ps82_fzn2cuPWA&e=1616958765
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUXvkkW8q_j0vOtQcFv95swEOgvJtDIk5pCv9VQRg_4U5eVzcXWbImo3jv7lBjEsng1vQ&usqp=CAU" group-title="TV", El trece
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/s7smi57g.m3u8?s=VQbz4-4S1D-GoPABPpkvuw&e=1616910774
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/s7smi57g.m3u8?s=f9dh2-YPXr49xecjhIvoTQ&e=1616959530
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV", America
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/8921a30e-2d68-46db-9167-4e7aeb8a5810:SCL/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV",Telefe
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CtYEEZnzh-q4_P7G7LBeO6viYV5h00b1Le3JpJunqsnYMXBDTprfm-82xhMx9smF3DTDY5CREnry-k-qYXUqdanQgMf1-9L_zsQUiY7CrTXYOuO7GBgiFcnFwZuPUUOZZ8lGx-aS4CtJD78O9WTH3IQdT_ftOJz5LXD2sUZk15TuLRDNklfB9KKUUwCcH9ssccSs2vmabbQAlQOK-XqQBekUKA6wtGLS9RqMJwnF-iwxIyyTBz8luY3EARcdEhIwqblaa-YwlU0WSOdMpoYYtkaOAH7sVTCFN8ZLw_yEkgxNBPgrOmHGr6c1n6addGFJ718RC6yGPItarzS6O1AVeC4Q97OTEt7ZxGIAr28sNNZdrin9Z1_Bh3Yry5p4_sqcQG_g484adXlkn1FGdW6ACUsLiwNKmVSlbEl1Ra0Ji4j9tNcny9uR6CeyriMGfomiywe6KDyG0iKKIotO-1uaaq7_XJRtmwzqCWlEB3XZ08DTtkaUqM00U0-k_OoheKkRM-kLkqp-1jQ6re6TSyVXD4NPxwfoHVrA399PNdIQL7lM-ACCEVNdrl40joMb_x-o14UATX6lmHSJi9494Ia-Kix8Trv_MouWRfigYyC_lCiQDnVVV9FIwYCHVJdvQoz5U-pKEbCNqWq4m4szadPViulUuWL1TD8ZnqMAZG9kJ7bOU-Ein-S-8vDm702b3NItqe3Lek8Eq4m5SfpqH_b6t_VBm7VG4ao7rHlXui-g7WMigtFkEg7fPqVh4_pdM6y9uLQjVEQtZiMCGMFZxBwl1Dm9ti6p4xZVaxIQO4kHItdwIdDlFbRPxVLl0RoMjvjg1oRcjr_ewh_B.m3u8
+https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/index_2_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1617024158~acl=%2fi%2fappmitelefe_1%40326430%2f*~data=hdntl~hmac=743c5a329455cee861651bb6c2bcbbbd2140a3ecbdedb494e913e92fabce7868
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="TV", C5N
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1909523800_b1264000_sleng.m3u8
+https://r2---sn-bpb5gxq-gxne.googlevideo.com/videoplayback?expire=1616959598&ei=DoRgYPHpHqOb1sQPnvCr6Aw&ip=190.57.231.90&id=kt43n3r1jJo.1&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=Fw&mm=44%2C29&mn=sn-bpb5gxq-gxne%2Csn-x1x7dn7s&ms=lva%2Crdu&mv=m&mvi=2&pcm2cms=yes&pl=24&initcwndbps=480000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=ouAQVCC3RMWGhKDm_bAGsaQF&gir=yes&mt=1616937623&fvip=4&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=GJxyWIyXtn2cnQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgBUziTtKF61EhgSVUdaaFA4kYi1xGycrxpotcHbGi3ccCIGsOnxJ_HbxHMhe06wJVoyIQG87HRVEzo_-1uyQhQ83X&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAKeK4fHhD-ijWRnbO0G6Vh3CmzHltVOWL9bg_sMmtm2HAiACjfuOS9Rp0KKoYpQJdTNgmz66J9OfDyL6va_3WKR0dw%3D%3D&alr=yes&cpn=ZbOA2hPIAanFupq6&cver=1.20210322.1.0&sq=820715&rn=11&rbuf=9579
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/928235234625228801/PrGLNPSS_400x400.jpg" group-title="TV", Telemax 
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png?region=0,0,500,575" group-title="TV", Star Channel 
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/0e733j.m3u8?s=-4JKNNJf7FxSZ_8XuW0T-A&e=1616913485
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/0e733j.m3u8?s=qIdGf5FA9-N6IHFnR2aAOA&e=1616960280
 
 #EXTINF:-1 tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" group-title="FUTBOL", TyC sport 
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index_10.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV",Fx
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/3cuvpp5n.m3u8?s=BPGV_fRW9fbj5PR_h8bf7w&e=1616929163
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/3cuvpp5n.m3u8?s=WbPkBqLyXJUXQN0_vrkxqQ&e=1616960345
 
 
 #EXTINF:-1 tvg-logo="" group-title="Peliculas", Más locos que una cabra
