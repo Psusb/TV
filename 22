@@ -5,16 +5,16 @@
 https://sv5.tsnt.xyz/simpsons/simpsons/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FUTBOL",ESPN 
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/yzfwp0ngkv.m3u8?s=AJ9rAmwM9CMnW1zYqQifRg&e=1616926308
+https://e10.espncdn.shop:443/ingestnb4s/espn_sur/c.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV", Cinemax
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/ztv7sh.m3u8?s=c_UPtI3OdCBdyCkpakoK9A&e=1616926728
 
 #EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="FUTBOL", Tnt sport
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/kqfqxg.m3u8?s=5vyu-bXjdXnH6skLTrVqsQ&e=1616931628
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/kqfqxg.m3u8?s=QPwxMX_IomzCZqYtUU79Ew&e=1616958883
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2019_01/large.LOGO_FOX_PREMIUM-2019.png.c23b10218838fe7038e9369322627bfb.png" group-title="FUTBOL", Fox premium
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/nqr8ua5ep6t.m3u8?s=O1obTjDkswfsTCXScz86NQ&e=1616931340
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/nqr8ua5ep6t.m3u8?s=EajYVXg0ps82_fzn2cuPWA&e=1616958765
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUXvkkW8q_j0vOtQcFv95swEOgvJtDIk5pCv9VQRg_4U5eVzcXWbImo3jv7lBjEsng1vQ&usqp=CAU" group-title="TV", El trece
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/s7smi57g.m3u8?s=VQbz4-4S1D-GoPABPpkvuw&e=1616910774
