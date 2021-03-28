@@ -8,10 +8,22 @@ https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/index_1_av-p.m3u8?
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/s7smi57g.m3u8?s=VQbz4-4S1D-GoPABPpkvuw&e=1616910774
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV", America
-https://r2---sn-bpb5gxq-gxne.googlevideo.com/videoplayback?expire=1616911620&ei=pMhfYJPIDKeN1sQPo--WwAU&ip=190.57.231.90&id=kt43n3r1jJo.1&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=Fw&mm=44%2C29&mn=sn-bpb5gxq-gxne%2Csn-n2gpou-hp5l&ms=lva%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=407500&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=QB9ERDg-LnuHA7hM_fErBOIF&gir=yes&mt=1616889622&fvip=2&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=vNXRNs8Ug5DL8A&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgDQ89_BAH5wYGEE5K6rn5ZbQJ033wiT7REC8tGHUfsX0CIC2b0_V4h5ZC9SAmTSnIBro-plVeqGxU-LO3cNTLz09z&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAPZlXEnrlKMLrNFSCMZXVCyMEJCAHc8xUafEoFZM4EpKAiBONUyvLjI7HXegkKKsEWgt-FUJsF0oh5zMGhqj8n-yfA%3D%3D&alr=yes&cpn=i8G2zo72iKhipBM6&cver=1.20210322.1.0&headm=3&rn=1&rbuf=0
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/9de0434b-7725-4e8a-b29e-acf0785b0724:SCL/variant/926d22b48e268d206b05dafb5866c540/bandwidth/646000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="TV", C5N
-https://r2---sn-bpb5gxq-gxne.googlevideo.com/videoplayback?expire=1616911027&ei=U8ZfYIbkHYazwQSFzY_QBQ&ip=190.57.231.90&id=kt43n3r1jJo.1&itag=140&source=yt_live_broadcast&requiressl=yes&mh=Fw&mm=44%2C29&mn=sn-bpb5gxq-gxne%2Csn-n2gpou-hp5l&ms=lva%2Crdu&mv=m&mvi=2&pcm2cms=yes&pl=24&initcwndbps=421250&vprv=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&ns=4Rye75hvonFoSpnqXt1EpFAF&gir=yes&mt=1616889381&fvip=2&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=hSlA58Uc7G0l_A&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAP8MZDpvfosOl4AJqzv1kyTN1T8vjORof-frdmu-LthKAiEAugUNuF5TamRmriV66H_MaRATlhvc_P_eqM2tdocdi2o%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgVmdKywRDLz5wS3CJH7bYeP2h_57TXbux-eC4cbZ7bMACIA79FWe8C8RnwaVG1h0Yel1YhtqzQP_um5CHbQB4xiMk&alr=yes&cpn=JFzUAWTJfuR-CWqF&cver=1.20210322.1.0&sq=796476&rn=14&rbuf=7252
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1909523800_b1264000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FUTBOL", Fox premium
-https://content-asae1-up-2.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1616889781&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=0a9d72c4e454d73f842dabdbf9b53ac787356cc468a13dba651130cb39c82664&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=8dbbf380e11ec018cf5275b3274882a743a5a838ad9df548276d7fd07741db61&pbs=16b5702892084e86973c45dcec42624e
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/928235234625228801/PrGLNPSS_400x400.jpg" group-title="TV", Telemax 
+https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/webadictos.com/media/2020/03/space-tv.png?fit=600%2C323&ssl=1" group-title="TV",Space
+https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/master.m3u8?hdnea=st=1616891010~exp=1616891610~acl=/*~hmac=2bbdd81ebed4ccedf73bb599e98fd83bb16a310f041763f13be260640cb26aa9
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1363927203168346122/eMyVtwQX_400x400.jpg" group-title="TV",TNT
+https://latam1-lh.akamaihd.net/i/TNT_ARG@445527/master.m3u8?hdnea=st=1616891253~exp=1616891853~acl=/*~hmac=ea6c94dc46e0f3506ab0610162185288e4d99c30ae79cbc0b239f8c8cc8f159d
+
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png?region=0,0,500,575" group-title="TV", Star Channel 
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/0e733j.m3u8?s=-4JKNNJf7FxSZ_8XuW0T-A&e=1616913485
+
+#EXTINF:-1 tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" group-title="TV", TyC sport 
+https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index_10.m3u8
