@@ -10,11 +10,11 @@ https://e10.espncdn.shop:443/ingestnb4s/espn_sur/c.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV", Cinemax
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/ztv7sh.m3u8?s=h3OcECBVHxLY-NVpG5YYRA&e=1616960422
 
-#EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="FUTBOL", Tnt sport
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/kqfqxg.m3u8?s=QPwxMX_IomzCZqYtUU79Ew&e=1616958883
+#EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="FUTBOL", River vs Racing 
+https://playback2.akamaized.net/streams/23200525_9595943_lsiug3svjqdmtoekyq6_1/exp=1617051265~acl=%2f*~data=hdntl~hmac=5d5a33ee2b14e88893f7f8d1b107c79bb6c3f0d13c4ca0306e81e742a2bed504/media/23200525_9595943_lsiug3svjqdmtoekyq6_1@628000p.m3u8?dw=80&ts=1616961600
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2019_01/large.LOGO_FOX_PREMIUM-2019.png.c23b10218838fe7038e9369322627bfb.png" group-title="FUTBOL", Fox premium
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/nqr8ua5ep6t.m3u8?s=EajYVXg0ps82_fzn2cuPWA&e=1616958765
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2019_01/large.LOGO_FOX_PREMIUM-2019.png.c23b10218838fe7038e9369322627bfb.png" group-title="FUTBOL", Fox premium op
+https://content-asae1-up-2.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/b.m3u8?exp=1616965262&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=7c9b177c336b865b9a0fcda51a69c9a4f41627c0b5e340849ba82691f64840dd&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=58b6a23b340a367e9f4ba0415d4ff87c36329b83497ecd0c12ea4dee168f4130&pbs=5933ad6af6d3412eb7ca4793d8758455
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUXvkkW8q_j0vOtQcFv95swEOgvJtDIk5pCv9VQRg_4U5eVzcXWbImo3jv7lBjEsng1vQ&usqp=CAU" group-title="TV", El trece
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/s7smi57g.m3u8?s=f9dh2-YPXr49xecjhIvoTQ&e=1616959530
