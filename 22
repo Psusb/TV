@@ -1,6 +1,9 @@
 #EXM3U8
 #EXTINF:-1 tvg-logo="" group-title="TV",
 
+#EXTINF:-1 tvg-logo="" group-title="TV", Los simpsons
+https://sv5.tsnt.xyz/simpsons/simpsons/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="FUTBOL",ESPN 
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/yzfwp0ngkv.m3u8?s=AJ9rAmwM9CMnW1zYqQifRg&e=1616926308
 
