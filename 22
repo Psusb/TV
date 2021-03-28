@@ -27,3 +27,6 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/0e733j.m3u8?s=-4JKNNJf7FxSZ_8XuW0
 
 #EXTINF:-1 tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" group-title="TV", TyC sport 
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index_10.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FUTBOL", Fox premium
+https://content-asae1-up-2.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1616889781&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=0a9d72c4e454d73f842dabdbf9b53ac787356cc468a13dba651130cb39c82664&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=8dbbf380e11ec018cf5275b3274882a743a5a838ad9df548276d7fd07741db61&pbs=16b5702892084e86973c45dcec42624e
