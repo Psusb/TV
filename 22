@@ -1,6 +1,9 @@
 #EXM3U8
 #EXTINF:-1 tvg-logo="" group-title="TV",
 
+#EXTINF:-1 tvg-logo="" group-title="FUTBOL",ESPN 
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/uezpfjf.m3u8?s=wDo_yRP4-AWTqTsPA6LnBA&e=1616925959
+
 #EXTINF:-1 tvg-logo="" group-title="TV", Star cinema 
 https://live.televisiongratishd.com/tvplus2023/38_.m3u8?token=bEZlmMpAOfiZo5af4Ubsuw&expires=1616906351&ip=190.57.231.90
 
