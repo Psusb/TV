@@ -22,6 +22,9 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/s7smi57g.m3u8?s=VQbz4-4S1D-GoPABP
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV", America
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/9de0434b-7725-4e8a-b29e-acf0785b0724:SCL/variant/926d22b48e268d206b05dafb5866c540/bandwidth/646000.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TV",Telefe
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CtYEEZnzh-q4_P7G7LBeO6viYV5h00b1Le3JpJunqsnYMXBDTprfm-82xhMx9smF3DTDY5CREnry-k-qYXUqdanQgMf1-9L_zsQUiY7CrTXYOuO7GBgiFcnFwZuPUUOZZ8lGx-aS4CtJD78O9WTH3IQdT_ftOJz5LXD2sUZk15TuLRDNklfB9KKUUwCcH9ssccSs2vmabbQAlQOK-XqQBekUKA6wtGLS9RqMJwnF-iwxIyyTBz8luY3EARcdEhIwqblaa-YwlU0WSOdMpoYYtkaOAH7sVTCFN8ZLw_yEkgxNBPgrOmHGr6c1n6addGFJ718RC6yGPItarzS6O1AVeC4Q97OTEt7ZxGIAr28sNNZdrin9Z1_Bh3Yry5p4_sqcQG_g484adXlkn1FGdW6ACUsLiwNKmVSlbEl1Ra0Ji4j9tNcny9uR6CeyriMGfomiywe6KDyG0iKKIotO-1uaaq7_XJRtmwzqCWlEB3XZ08DTtkaUqM00U0-k_OoheKkRM-kLkqp-1jQ6re6TSyVXD4NPxwfoHVrA399PNdIQL7lM-ACCEVNdrl40joMb_x-o14UATX6lmHSJi9494Ia-Kix8Trv_MouWRfigYyC_lCiQDnVVV9FIwYCHVJdvQoz5U-pKEbCNqWq4m4szadPViulUuWL1TD8ZnqMAZG9kJ7bOU-Ein-S-8vDm702b3NItqe3Lek8Eq4m5SfpqH_b6t_VBm7VG4ao7rHlXui-g7WMigtFkEg7fPqVh4_pdM6y9uLQjVEQtZiMCGMFZxBwl1Dm9ti6p4xZVaxIQO4kHItdwIdDlFbRPxVLl0RoMjvjg1oRcjr_ewh_B.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="TV", C5N
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1909523800_b1264000_sleng.m3u8
 
