@@ -1,5 +1,8 @@
 #EXM3U8
+#EXTINF:-1 tvg-logo="" group-title="TV",Pelis
+
 #EXTINF:-1 tvg-logo="" group-title="TV", 
+https://live.televisiongratishd.com/tvplus2023/38_.m3u8?token=bEZlmMpAOfiZo5af4Ubsuw&expires=1616906351&ip=190.57.231.90
 
 #EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="FUTBOL", Tnt sport
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pddbq.m3u8?s=XcU1j_tALGa5MR48HuOR1g&e=1616920911
