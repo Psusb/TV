@@ -7,9 +7,6 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pddbq.m3u8?s=XcU1j_tALGa5MR48HuOR
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2019_01/large.LOGO_FOX_PREMIUM-2019.png.c23b10218838fe7038e9369322627bfb.png" group-title="FUTBOL", Fox premium
 https://content-asae1-up-2.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1616899141&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=5b98f5f185215d31da6f62b7fb7cf28bbdd3e6ff035221c1abe50a3a4898d86e&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=1e53fd2c88709d4afed2dac3750d405cfd169f8c5bff63cb6b145cc07204ed9b&pbs=b0560709b4a0444bb26a8448174edea6
 
-#EXTINF:-1 tvg-logo="https://telefe-static.akamaized.net/assets/telefe/4.05.01/static/img/logo-schema.jpg" group-title="TV",TELEFE
-https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1616985205~acl=%2fi%2fappmitelefe_1%40326430%2f*~data=hdntl~hmac=8cc37df41838db6c786ed9659572f6bca6a57fceb52fcf2d86318fb24701e8e8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUXvkkW8q_j0vOtQcFv95swEOgvJtDIk5pCv9VQRg_4U5eVzcXWbImo3jv7lBjEsng1vQ&usqp=CAU" group-title="TV", El trece
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/s7smi57g.m3u8?s=VQbz4-4S1D-GoPABPpkvuw&e=1616910774
 
@@ -22,14 +19,8 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1909523800_b1
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/928235234625228801/PrGLNPSS_400x400.jpg" group-title="TV", Telemax 
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/webadictos.com/media/2020/03/space-tv.png?fit=600%2C323&ssl=1" group-title="TV",Space
-https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/master.m3u8?hdnea=st=1616891010~exp=1616891610~acl=/*~hmac=2bbdd81ebed4ccedf73bb599e98fd83bb16a310f041763f13be260640cb26aa9
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1363927203168346122/eMyVtwQX_400x400.jpg" group-title="TV",TNT
-https://latam1-lh.akamaihd.net/i/TNT_ARG@445527/master.m3u8?hdnea=st=1616891253~exp=1616891853~acl=/*~hmac=ea6c94dc46e0f3506ab0610162185288e4d99c30ae79cbc0b239f8c8cc8f159d
-
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png?region=0,0,500,575" group-title="TV", Star Channel 
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/0e733j.m3u8?s=-4JKNNJf7FxSZ_8XuW0T-A&e=1616913485
 
-#EXTINF:-1 tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" group-title="TV", TyC sport 
+#EXTINF:-1 tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" group-title=" FUTBOL", TyC sport 
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index_10.m3u8
