@@ -7,7 +7,7 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pddbq.m3u8?s=m48trPrC13h05VuDvmDS
 #EXTINF:-1 tvg-logo="" group-title="FUTBOL", Fox premium
 
 #EXTINF:-1 tvg-logo="https://telefe-static.akamaized.net/assets/telefe/4.05.01/static/img/logo-schema.jpg" group-title="TV",TELEFE
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1616984850~acl=%2fi%2fcanal8cordoba_1%40685726%2f*~data=hdntl~hmac=52c1ad5879c4a0e7bf1127e47b19250a18b066314f7f4c363b3e837ae6cee076
+https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1616985205~acl=%2fi%2fappmitelefe_1%40326430%2f*~data=hdntl~hmac=8cc37df41838db6c786ed9659572f6bca6a57fceb52fcf2d86318fb24701e8e8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUXvkkW8q_j0vOtQcFv95swEOgvJtDIk5pCv9VQRg_4U5eVzcXWbImo3jv7lBjEsng1vQ&usqp=CAU" group-title="TV", El trece
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/s7smi57g.m3u8?s=VQbz4-4S1D-GoPABPpkvuw&e=1616910774
