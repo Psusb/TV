@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-logo="" group-title="TV", 
 
 #EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="FUTBOL", Tnt sport
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pddbq.m3u8?s=m48trPrC13h05VuDvmDSHQ&e=1616915329
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pddbq.m3u8?s=XcU1j_tALGa5MR48HuOR1g&e=1616920911
 
-#EXTINF:-1 tvg-logo="" group-title="FUTBOL", Fox premium
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2019_01/large.LOGO_FOX_PREMIUM-2019.png.c23b10218838fe7038e9369322627bfb.png" group-title="FUTBOL", Fox premium
 https://content-asae1-up-2.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1616899141&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=5b98f5f185215d31da6f62b7fb7cf28bbdd3e6ff035221c1abe50a3a4898d86e&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=1e53fd2c88709d4afed2dac3750d405cfd169f8c5bff63cb6b145cc07204ed9b&pbs=b0560709b4a0444bb26a8448174edea6
 
 #EXTINF:-1 tvg-logo="https://telefe-static.akamaized.net/assets/telefe/4.05.01/static/img/logo-schema.jpg" group-title="TV",TELEFE
