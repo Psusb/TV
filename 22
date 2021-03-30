@@ -2,19 +2,20 @@
 
 #EXTINF:-1 tvg-id="271" tvg-name="Canal 26" tvg-logo="" group-title="TV",
 
+#EXTINF:-1 tvg-id="246" tvg-name="Telefe Rosario" tvg-logo="https://www.m3u.cl/logo/246_Telefe_Rosario.jpg" group-title="TV",  Telefe Rosario
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="271" tvg-name="Canal 26" tvg-logo="https://www.m3u.cl/logo/271_Canal_26.png" group-title="TV", Canal 26 | AR
+#EXTINF:-1 tvg-id="253" tvg-name="Argentinisima Satelital" tvg-logo="https://www.m3u.cl/logo/253_Argentinisima_Satelital.png" group-title="TV",  Argentinisima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="271" tvg-name="Canal 26" tvg-logo="https://www.m3u.cl/logo/271_Canal_26.png" group-title="TV", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="204" tvg-name="Canal 29 Quilmes Vision" tvg-logo="https://www.m3u.cl/logo/204_Canal_29_Quilmes_Vision.webp" group-title="TV",  Canal 29 Quilmes Vision | AR
-
+#EXTINF:-1 tvg-id="204" tvg-name="Canal 29 Quilmes Vision" tvg-logo="https://www.m3u.cl/logo/204_Canal_29_Quilmes_Vision.webp" group-title="TV",  Canal 29 Quilmes Vision
 http://inliveserver.com:1935/8386/8386/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="292" tvg-name="Telemax" tvg-logo="https://www.m3u.cl/logo/292_Telemax.png" group-title="TV",  Telemax | AR
-
+#EXTINF:-1 tvg-id="292" tvg-name="Telemax" tvg-logo="https://www.m3u.cl/logo/292_Telemax.png" group-title="TV",  Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="24" tvg-name="Music Top" tvg-logo="https://www.m3u.cl/logo/24_Music_Top.png" group-title="TV",  Music Top | AR
-
+#EXTINF:-1 tvg-id="24" tvg-name="Music Top" tvg-logo="https://www.m3u.cl/logo/24_Music_Top.png" group-title="TV",  Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
