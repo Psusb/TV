@@ -1,7 +1,6 @@
 #EXM3U8
 #EXTINF:-1 tvg-logo="" group-title="TV",
 
-TV
 #EXTINF:-1 tvg-logo="" group-title="TV",Dragon ball z
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/wkq698ctu2.m3u8?s=87CTK0CZa3dvXoRfFWcIRA&e=1617100153
 
@@ -19,9 +18,6 @@ https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png?region=0,0,500,575" group-title="TV", Star Channel 
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/0e733j.m3u8?s=Z2Sjh6wCMgbHCve_Tc7c3A&e=1617084779
-
-
-FUTBOL
 
 
 #EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="FUTBOL",Huracan vs Gimnasia 
