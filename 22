@@ -12,7 +12,7 @@ https://edge-live12-sl.cvattv.com.ar/live//c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESP
 #EXTINF:-1 tvg-logo="" group-title="TV", Cinemax
 https://sv.tsnt.xyz/cv.php
 
-#EXTINF:-1 tvg-logo="" group-title="TV",Tnt sport
+#EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="FUTBOL",Tnt sport
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pddbq.m3u8?s=aAoJ3txfl2wJHb5SJ-syvw&e=1617085520
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2019_01/large.LOGO_FOX_PREMIUM-2019.png.c23b10218838fe7038e9369322627bfb.png" group-title="FUTBOL", Fox premium op
