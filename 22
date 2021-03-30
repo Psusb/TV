@@ -1,6 +1,8 @@
 #EXM3U8
 #EXTINF:-1 tvg-logo="" group-title="TV",
 
+
+
 #EXTINF:-1 tvg-logo="https://los40es00.epimg.net/los40/imagenes/2020/05/19/cinetv/1589881432_047100_1589883373_noticia_normal.jpg" group-title="TV", Los simpsons
 https://ka-f.fontawesome.com/releases/v5.15.3/css/free.min.css?token=38f7dffd19
 
@@ -10,8 +12,11 @@ https://edge-live12-sl.cvattv.com.ar/live//c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESP
 #EXTINF:-1 tvg-logo="" group-title="TV", Cinemax
 https://sv.tsnt.xyz/cv.php
 
+#EXTINF:-1 tvg-logo="" group-title="TV",Tnt sport
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/pddbq.m3u8?s=aAoJ3txfl2wJHb5SJ-syvw&e=1617085520
+
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2019_01/large.LOGO_FOX_PREMIUM-2019.png.c23b10218838fe7038e9369322627bfb.png" group-title="FUTBOL", Fox premium op
-https://content-asae1-up-2.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/b.m3u8?exp=1616965262&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=7c9b177c336b865b9a0fcda51a69c9a4f41627c0b5e340849ba82691f64840dd&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=58b6a23b340a367e9f4ba0415d4ff87c36329b83497ecd0c12ea4dee168f4130&pbs=5933ad6af6d3412eb7ca4793d8758455
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/y6cwu6zgx.m3u8?s=_3PdyoQcnZg7_ag16EZgJQ&e=1617085689
 
 #EXTINF:-1 tvg-logo="https://telefe-static.akamaized.net/assets/telefe/4.05.01/static/img/logo-schema.jpg" group-title="TV",Telefe
 https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/index_3_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1617148931~acl=%2fi%2fevento6hls_1%4048399%2f*~data=hdntl~hmac=78fe037e647fda753559c23439e9cce4045fb56ced32f0a4ac5791e798b36cc3
