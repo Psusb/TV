@@ -1,6 +1,9 @@
 #EXM3U
 #EXTINF:-1 tvg-logo="" group-title="TV",
 
+#EXTINF:-1 tvg-logo="" group-title="TV", Fox movies
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/4dtc368405sw4mo.m3u8?s=dsRlJnMSKyVOePqIukiJ1g&e=1617102369
+
 #EXTINF:-1 tvg-logo="" group-title="TV",Dragon ball z
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/wkq698ctu2.m3u8?s=87CTK0CZa3dvXoRfFWcIRA&e=1617100153
 
