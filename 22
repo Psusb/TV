@@ -6,17 +6,9 @@
 #EXTINF:-1 tvg-logo="https://los40es00.epimg.net/los40/imagenes/2020/05/19/cinetv/1589881432_047100_1589883373_noticia_normal.jpg" group-title="TV", Los simpsons
 https://ka-f.fontawesome.com/releases/v5.15.3/css/free.min.css?token=38f7dffd19
 
-#EXTINF:-1 tvg-logo="" group-title="FUTBOL",ESPN 
-https://edge-live12-sl.cvattv.com.ar/live//c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="TV", Cinemax
 https://sv.tsnt.xyz/cv.php
-
-#EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="FUTBOL",Huracan vs Gimnasia 
-https://vkvsd9.mycdn.me:443/hls/1285267196656.m3u8/sig/LEBqt8Oq3rY/expires/1617151708088/srcIp/181.9.180.23/clientType/13/srcAg/CHROME_ANDROID/mid/2365075893232/1285267196656_medium/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2019_01/large.LOGO_FOX_PREMIUM-2019.png.c23b10218838fe7038e9369322627bfb.png" group-title="FUTBOL", At.tucuman vs Newells
-https://content-auso3.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/d.m3u8?exp=1617065333&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=734186817d26b88025813abae326fb63064f926e35e9aa213c2c4163e006d9f7&euid=%7B58AAF5CE-1660-4200-BE5A-133C12C35A67%7D_000_1_001_live_00-06-00_0.2.7.33&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=448bf2c392faf9341091bf3aef9460c8f0b1c098b554fdbb5d47c86a7a6ddee0&pbs=792073b36eb04e1e8162d951cad75b80
 
 #EXTINF:-1 tvg-logo="https://telefe-static.akamaized.net/assets/telefe/4.05.01/static/img/logo-schema.jpg" group-title="TV",Telefe
 https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/index_3_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1617148931~acl=%2fi%2fevento6hls_1%4048399%2f*~data=hdntl~hmac=78fe037e647fda753559c23439e9cce4045fb56ced32f0a4ac5791e798b36cc3
@@ -27,5 +19,17 @@ https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png?region=0,0,500,575" group-title="TV", Star Channel 
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/0e733j.m3u8?s=Z2Sjh6wCMgbHCve_Tc7c3A&e=1617084779
 
+
+
+
+#EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="FUTBOL",Huracan vs Gimnasia 
+https://vkvsd9.mycdn.me:443/hls/1285267196656.m3u8/sig/LEBqt8Oq3rY/expires/1617151708088/srcIp/181.9.180.23/clientType/13/srcAg/CHROME_ANDROID/mid/2365075893232/1285267196656_medium/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2019_01/large.LOGO_FOX_PREMIUM-2019.png.c23b10218838fe7038e9369322627bfb.png" group-title="FUTBOL", At.tucuman vs Newells
+https://content-auso3.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/d.m3u8?exp=1617065333&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=734186817d26b88025813abae326fb63064f926e35e9aa213c2c4163e006d9f7&euid=%7B58AAF5CE-1660-4200-BE5A-133C12C35A67%7D_000_1_001_live_00-06-00_0.2.7.33&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=448bf2c392faf9341091bf3aef9460c8f0b1c098b554fdbb5d47c86a7a6ddee0&pbs=792073b36eb04e1e8162d951cad75b80
+
 #EXTINF:-1 tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" group-title="FUTBOL", TyC sport 
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index_10.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FUTBOL",ESPN 
+https://edge-live12-sl.cvattv.com.ar/live//c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
