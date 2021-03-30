@@ -3,7 +3,14 @@
 
 #EXTINF:-1 tvg-id="271" tvg-name="Canal 26" tvg-logo="" "group-title="TV",
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" group-title="DEPORTE", Tyc sport
+#EXTINF:-1 tvg-id="271" tvg-name="Star cinema" tvg-logo="" "group-title="TV", Star cinema
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/5s69x53079q85.m3u8?s=fyunVXOFCElSG_4-emYgAA&e=1617145275
+
+
+#EXTINF:-1 tvg-id="271" tvg-name="Fox action" tvg-logo="" "group-title="TV", Fox action 
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/4612rwe.m3u8?s=KGGCeMFU5R7dVCqeHdRqQQ&e=1617145181
+
+#EXTINF:-1 tvg-id="" tvg-name="Tyc sports" tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" group-title="DEPORTE", Tyc sport
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8?
 
 #EXTINF:-1 tvg-id="208" tvg-name="CINE.AR" tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png" group-title="TV",  CINE.AR
