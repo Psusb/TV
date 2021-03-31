@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="" group-title="DEPORTE",
 
 
+#EXTINF:-1 tvg-id="" tvg-name="espn" tvg-logo="" group-title="DEPORTE", espn
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/yzfwp0ngkv.m3u8?s=PFByqKVNMqQTOUESAvoosw&e=1617228475
+
+
 #EXTINF:-1 tvg-id="12" tvg-name="Fox premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="Pack futbol", Fox premium
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/nqr8ua5ep6t.m3u8?s=mhSP5f_6XaBpe9DmY2EMnw&e=1617151843
 
