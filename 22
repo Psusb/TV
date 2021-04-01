@@ -18,7 +18,7 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/yzfwp0ngkv.m3u8?s=k8o4DjYVHhyKY6m
 #EXTINF:-1 tvg-id="12" tvg-name="Fox premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="Pack futbol", Fox premium
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/nqr8ua5ep6t.m3u8?s=ccenBcArL67G8mm7D_ebIQ&e=1617316888
 
-#EXTINF:-1 tvg-id="23" tvg-name="Tnt sports tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png" group-title="Pack futbol", Tnt sports
+#EXTINF:-1 tvg-id="23" tvg-name="Tnt sports tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="Pack futbol", Tnt sports
 https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_480_av-p.m3u8?sd=10&rebase=on&id=AgC+OedaigCYDCQeZmD+iOKE4HrU5GJThSEwlf8x6WE1KucOcpb3qZTlsy2LYCfv712qCOcnBxU77g%3d%3d&hdntl=exp=1617326724~acl=%2f*~data=hdntl~hmac=473954ad9c24209e747ca11a8665c05c1265c64a609a81a07d93952b27099c48
 
 #EXTINF:-1 tvg-id="55" tvg-name="Canal 26" tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" group-title="DEPORTE", Tyc sport
